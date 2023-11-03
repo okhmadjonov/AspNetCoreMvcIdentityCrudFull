@@ -1,0 +1,17 @@
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\DataContext.deps.json
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\DataContext.runtimeconfig.json
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\DataContext.dll
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\DataContext.pdb
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\Domain.dll
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\bin\Debug\net7.0\Domain.pdb
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.AssemblyInfo.cs
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.csproj.CopyComplete
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.dll
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\refint\DataContext.dll
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.pdb
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\DataContext.genruntimeconfig.cache
+C:\Users\nemo\Desktop\all\delete\IdentityAndMvc\DataContext\obj\Debug\net7.0\ref\DataContext.dll

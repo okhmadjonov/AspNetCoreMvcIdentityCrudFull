@@ -1,0 +1,27 @@
+﻿@model Domain.Dtos.CarDto
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-controller="Car" asp-action="Edit" method="post">
+              
+
+                <div class="form-group">
+                    <label asp-for="Name">Car Name</label>
+                    <input type="text" asp-for="Name" class="form-control" autocomplete="off" />
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price">Car Price</label>
+                    <input type="text" asp-for="Price" class="form-control" autocomplete="off" />
+                </div>
+
+                <br />
+                <div class="form-group">
+                    <button class="btn btn-success" type="submit">Apply</button>
+                    <a class="btn btn-warning" asp-controller="Car" asp-action="Index">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

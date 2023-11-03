@@ -1,0 +1,59 @@
+﻿
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Domain.Models.Car>;
+
+
+
+<div class="container">
+    <a class="btn btn-success" asp-controller="Car" asp-action="AddCar">Add Car</a>
+    <br /><br />
+    <div class="row">
+        <div class="col-md-10">
+            <div class="card">
+                <div class="card-body">
+                    <table class="table table-striped">
+                        <thead class="table-secondary">
+                            <tr>
+                                <td colspan="1">#</td>
+                                <td>Name</td>
+
+                                <td>Price</td>
+
+                                <td colspan="1">Edit</td>
+                                <td colspan="1">Delete</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tbody>
+                            @foreach (Domain.Models.Car car in Model)
+                            {
+                                <tr>
+                                    <td>@car.Id</td>
+                                    <td>@car.Name</td>
+                                    <td>@car.Price</td>
+                                    <td>
+                                        <a class="btn btn-warning"
+                                                asp-route-id="@car.Id"
+                                                asp-controller="Car"
+                                                asp-action="Edit">
+                                            Edit
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger"
+                                           asp-route-id="@car.Id"
+                                           asp-controller="Car"
+                                           asp-action="Delete">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
